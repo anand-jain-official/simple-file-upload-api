@@ -1,5 +1,5 @@
 const express = require('express');
-const fileUpload = require('../lib/index');
+const fileUpload = require('./lib/index');
 const app = express();
 const cors = require('cors');
 
